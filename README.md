@@ -228,10 +228,10 @@ To be able to use this react app locally in a development environment you will n
 
 ```cmd
 # Clone this repository
-git clone https://github.com/AhmedTohamy01/React-Netflix-Clone
+git clone https://github.com/neelnavdi24/Netflix_Clone_using_Reactjs
 
 # Go into the repository
-cd react-netflix-clone
+cd Netflix_Clone_using_Reactjs
 
 # Install dependencies
 npm install 
